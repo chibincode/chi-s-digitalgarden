@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chi-obsidian-garden/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/chi-obsidian-garden/"}
 ---
 
 # 关于
